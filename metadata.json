@@ -1,0 +1,9 @@
+{
+  "name": "Medicare",
+  "description": "A comprehensive Treatment Recommendation and Reminder System with AI Chatbot capabilities.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
